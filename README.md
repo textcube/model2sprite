@@ -1,7 +1,5 @@
-Model2Sprite
-============
-
 2D-Animated Sequences Making Tool
+=================================
 
 Overview :
 - To make it easier for beginners to understand 

@@ -26,10 +26,8 @@ Note :
 - Unity 2D & Mecanim, such as prior knowledge is required for studying.
 
 Contact :
-- Homepage Link : http://buntgames.com
-- Blog Link : http://hompy.info
+- Homepage Link : http://qatop.com
 - Facebook Link : http://facebook.com/buntgames
-- Email : hompy@buntgames.com
 
 
 [![DEMO VIDEO](http://img.youtube.com/vi/vlreTPhplDQ/0.jpg)](http://www.youtube.com/watch?v=vlreTPhplDQ)
